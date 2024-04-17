@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alok589
 - 👀 I’m interested in Machine Learning and Deep Learning 
-- 🌱 I’m currently learning computational Imaging
+- 🌱 I’m currently working with computational Imaging
 - 📫 How to reach me alokchauhan59@gmail.com
 
 <!---
